@@ -1,14 +1,15 @@
 ## Instructions:
 - See details for mockups for: desktop, tablet, and mobile views
-  - [X] Create a repo for your assignments
-  - [X] Create a GH page associated with assignments repo (this is the url you provide for peer review)
-  - [X] Create a folder in repo for the solution for assignment 2
-  - [X] Create an `index.html` file inside assignment folder
-  - [ ] Following the mockups, create a single, responsive page that works in all three enviromments: desktop, tablet, and mobile:
-    - [X] Ensure you are using a CSS file placed in a `css` folder as a sibling to your `index.html`
+- ✅ Create a repo for your assignments
+- ✅ Create a GH page associated with assignments repo (this is the url you provide for peer review)
+- ✅ Create a folder in repo for the solution for assignment 2
+- ✅ Create an `index.html` file inside assignment folder
+---
+- Following the mockups, create a single, responsive page that works in all three enviromments: desktop, tablet, and mobile:
+    - ✅ Ensure you are using a CSS file placed in a `css` folder as a sibling to your `index.html`
     	- No in-line CSS
     	- No CSS/JS framework (including Twitter Bootstrap)
-    	- Hint: you can start with the simple responsive framework developed in lecture 24 
+    	- ✅ Hint: you can start with the simple responsive framework developed in lecture 24 
     - [ ] You **must** implement the following breakpoints
     	- [ ] Desktop: width of the browser window is 992px and above
     	- [ ] Tablet: width of the browser window is between 768px and 991px, inclusively
