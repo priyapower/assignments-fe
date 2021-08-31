@@ -22,7 +22,7 @@
 
 [My Checklists](assignment_2/checklist.md)
 
-❌ [My Assignment #2]()
+❌ [My Assignment #2](assignment_2/index.html)
 
 ---
 ## Assignment 3
