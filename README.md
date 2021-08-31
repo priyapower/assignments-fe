@@ -20,12 +20,16 @@
 
 ❌ [My Assignment #2]()
 
+[My Checklists](assignment_2/checklist.md)
+
 ---
 ## Assignment 3
 
 [#3 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 
 ❌ [My Assignment #3]()
+
+[My Checklists]()
 
 ---
 ## Assignment 4
@@ -34,10 +38,14 @@
 
 ❌ [My Assignment #4]()
 
+[My Checklists]()
+
 ---
 ## Assignment 5
 
 [#5 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
 
 ❌ [My Assignment #5]()
+
+[My Checklists]()
 
