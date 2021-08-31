@@ -8,31 +8,36 @@
 
 ---
 ## Assignment 1
----
-[Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment1/Assignment-1.md)
+
+[#1 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment1/Assignment-1.md)
+
 ✅ _All you need to do is pass the quiz_
 
 ---
 ## Assignment 2
----
-[Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+
+[#2 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+
 ❌ [My Assignment #2]()
 
 ---
 ## Assignment 3
----
-[Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+
+[#3 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+
 ❌ [My Assignment #3]()
 
 ---
 ## Assignment 4
----
-[Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+
+[#4 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+
 ❌ [My Assignment #4]()
 
 ---
 ## Assignment 5
----
-[Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+
+[#5 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+
 ❌ [My Assignment #5]()
 
