@@ -48,8 +48,8 @@
       - [ ] Set a font-family for the text in your page
       - [ ] Set the font size of the heading to be 75% larger than the font size of the dummy text
       - [ ] Set the section title to be 25% larger than the font size of the dummy text
----
 
+---
 ## Self Review:
 - [ ] Does the implementation avoid CSS/JS framework?
 - [ ] Does the implementation avoid inline CSS
@@ -67,7 +67,7 @@
 - [ ] Is there padding separating the dummy text from the edges of the section?
 - [ ] Is the dummy text pushed down such that it doesn’t overlap the section title region?
 - [ ] Are the borders and colors implemented according the stated requirements? 
----
 
+---
 ## Peer Review:
 _details to come_
