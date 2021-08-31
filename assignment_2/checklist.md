@@ -4,6 +4,7 @@
 - ✅ Create a GH page associated with assignments repo (this is the url you provide for peer review)
 - ✅ Create a folder in repo for the solution for assignment 2
 - ✅ Create an `index.html` file inside assignment folder
+
 ---
 - Following the mockups, create a single, responsive page that works in all three enviromments: desktop, tablet, and mobile:
     - ✅ Ensure you are using a CSS file placed in a `css` folder as a sibling to your `index.html`
@@ -47,6 +48,7 @@
       - [ ] Set a font-family for the text in your page
       - [ ] Set the font size of the heading to be 75% larger than the font size of the dummy text
       - [ ] Set the section title to be 25% larger than the font size of the dummy text
+---
 
 ## Self Review:
 - [ ] Does the implementation avoid CSS/JS framework?
@@ -65,6 +67,7 @@
 - [ ] Is there padding separating the dummy text from the edges of the section?
 - [ ] Is the dummy text pushed down such that it doesn’t overlap the section title region?
 - [ ] Are the borders and colors implemented according the stated requirements? 
+---
 
 ## Peer Review:
 _details to come_
