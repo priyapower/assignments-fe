@@ -71,3 +71,24 @@
 ---
 ## Peer Review:
 _details to come_
+
+---
+## Resources:
+_In no particular order_
+- https://www.w3.org/Style/Examples/007/fonts.en.html
+- https://stackoverflow.com/questions/18118530/using-css-to-set-default-font/18118569
+- https://www.w3.org/Style/Examples/007/center.en.html
+- https://www.w3schools.com/cssref/css_colors.asp
+- https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups
+- https://css-tricks.com/almanac/properties/m/min-height/
+- https://stackoverflow.com/questions/26209391/how-do-you-put-in-percentage-based-margin-to-a-css-grid
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+- https://www.w3docs.com/snippets/css/how-to-override-css-styles.html
+- https://blog.hubspot.com/website/css-margin-vs-padding
+- https://css-tricks.com/keep-math-in-the-css/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/calc()
+- https://www.w3schools.com/css/css_rwd_grid.asp
+- https://www.w3schools.com/cssref/pr_font_font-size.asp
+- https://stackoverflow.com/questions/2842368/how-to-place-last-div-into-right-top-corner-of-parent-div-css
+- http://www.java2s.com/Code/HTMLCSS/CSS/fontsize7525smaller.htm
+- https://www.w3schools.com/cssref/pr_text_text-align.ASP
