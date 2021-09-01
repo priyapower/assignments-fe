@@ -99,4 +99,5 @@ _In no particular order_
 - https://www.youtube.com/watch?v=28z_A0BhTdQ
 - https://www.geeksforgeeks.org/how-to-create-jumping-text-3d-animation-effect-using-css/
 - https://morioh.com/p/c3ab0b8bb9c8
+- https://www.sliderrevolution.com/resources/css-text-animation/
 
