@@ -92,3 +92,11 @@ _In no particular order_
 - https://stackoverflow.com/questions/2842368/how-to-place-last-div-into-right-top-corner-of-parent-div-css
 - http://www.java2s.com/Code/HTMLCSS/CSS/fontsize7525smaller.htm
 - https://www.w3schools.com/cssref/pr_text_text-align.ASP
+- https://www.w3docs.com/snippets/css/how-to-override-css-styles.html
+- https://stackoverflow.com/questions/44803547/autoindent-on-sublime-text#:~:text=That's%20quite%20simple%20in%20Sublime,or%20it%20may%20not%20appear.
+- https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/
+- https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css
+- https://www.youtube.com/watch?v=28z_A0BhTdQ
+- https://www.geeksforgeeks.org/how-to-create-jumping-text-3d-animation-effect-using-css/
+- https://morioh.com/p/c3ab0b8bb9c8
+
