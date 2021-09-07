@@ -14,7 +14,7 @@
 ## Assignment 2
 - [#2 Details](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 - [My Checklists](assignment_2/checklist.md)
-- ❌ [My Assignment #2](assignment_2/index.html)
+- ✅ [My Assignment #2](assignment_2/index.html)
 
 ---
 ## Assignment 3
